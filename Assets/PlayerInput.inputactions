@@ -1,8 +1,8 @@
 {
-    "name": "InputActions",
+    "name": "PlayerInput",
     "maps": [
         {
-            "name": "Touch",
+            "name": "BallCatchInputs",
             "id": "38414730-4de8-470f-ad04-17919734facb",
             "actions": [
                 {
